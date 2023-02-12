@@ -1,0 +1,13 @@
+F:\ITI\C#\CSTask7\CSTask7\bin\Debug\CSTask7.exe.config
+F:\ITI\C#\CSTask7\CSTask7\bin\Debug\CSTask7.exe
+F:\ITI\C#\CSTask7\CSTask7\bin\Debug\CSTask7.pdb
+F:\ITI\C#\CSTask7\CSTask7\obj\Debug\CSTask7.csproj.AssemblyReference.cache
+F:\ITI\C#\CSTask7\CSTask7\obj\Debug\CSTask7.csproj.SuggestedBindingRedirects.cache
+F:\ITI\C#\CSTask7\CSTask7\obj\Debug\CSTask7.Form1.resources
+F:\ITI\C#\CSTask7\CSTask7\obj\Debug\CSTask7.Properties.Resources.resources
+F:\ITI\C#\CSTask7\CSTask7\obj\Debug\CSTask7.csproj.GenerateResource.cache
+F:\ITI\C#\CSTask7\CSTask7\obj\Debug\CSTask7.csproj.CoreCompileInputs.cache
+F:\ITI\C#\CSTask7\CSTask7\obj\Debug\CSTask7.exe
+F:\ITI\C#\CSTask7\CSTask7\obj\Debug\CSTask7.pdb
+F:\ITI\C#\CSTask7\CSTask7\obj\Debug\CSTask7.Calculate.resources
+F:\ITI\C#\CSTask7\CSTask7\obj\Debug\CSTask7.Reverse.resources
